@@ -1,0 +1,1 @@
+D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\ToDoMauiClient.csproj;x64
