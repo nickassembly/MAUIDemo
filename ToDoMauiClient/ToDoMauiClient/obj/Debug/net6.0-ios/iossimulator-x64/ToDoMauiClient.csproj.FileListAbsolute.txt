@@ -213,6 +213,7 @@ D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-i
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
 D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
