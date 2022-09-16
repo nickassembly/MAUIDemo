@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2NNk1T5uZpgGEYnG80vreIYOeUnoGueICZSFFRKAslA0ExPTJRYB5ixD3ui6iOogtY9aZ9d8IEhqDM1F0UmoEw==",
+  "dgSpecHash": "0mLwVRcibHB3/rqHDTc+V8+Tpxgu6LekwWaqmSgekRDX9evZYffLuUSbFagGw5LyLOTiSSWQerj3oj6raUgLRA==",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\Dotnet\\MAUIDemo\\ToDoMauiClient\\ToDoMauiClient\\ToDoMauiClient.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\nickg\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

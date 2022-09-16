@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-10T10:57:42.028</Modified>
+      <Modified>2022-09-16T10:28:29.764</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-10T10:57:41.632</Modified>
+      <Modified>2022-09-16T10:28:29.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ToDoMauiClient.runtimeconfig.json">
       <PackagePath>ToDoMauiClient.runtimeconfig.json</PackagePath>
-      <Modified>2022-09-10T10:57:41.400</Modified>
+      <Modified>2022-09-16T10:28:29.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ToDoMauiClient.dll">
       <PackagePath>ToDoMauiClient.dll</PackagePath>
-      <Modified>2022-09-10T10:57:40.182</Modified>
+      <Modified>2022-09-16T10:28:28.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ToDoMauiClient.exe</PackagePath>
-      <Modified>2022-09-10T10:57:40.200</Modified>
+      <Modified>2022-09-16T10:28:28.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickg\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1063,7 +1063,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ToDoMauiClient.deps.json">
       <PackagePath>ToDoMauiClient.deps.json</PackagePath>
-      <Modified>2022-09-10T10:57:41.862</Modified>
+      <Modified>2022-09-16T10:28:29.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1083,23 +1083,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.510</Modified>
+      <Modified>2022-09-16T10:11:09.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.525</Modified>
+      <Modified>2022-09-16T10:11:09.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.545</Modified>
+      <Modified>2022-09-16T10:11:09.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.576</Modified>
+      <Modified>2022-09-16T10:11:09.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.698</Modified>
+      <Modified>2022-09-16T10:11:09.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1111,147 +1111,147 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-09-10T10:57:39.739</Modified>
+      <Modified>2022-09-16T10:11:09.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.911</Modified>
+      <Modified>2022-09-16T10:11:09.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.922</Modified>
+      <Modified>2022-09-16T10:11:09.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.931</Modified>
+      <Modified>2022-09-16T10:11:09.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.948</Modified>
+      <Modified>2022-09-16T10:11:09.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:40.012</Modified>
+      <Modified>2022-09-16T10:11:09.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.746</Modified>
+      <Modified>2022-09-16T10:11:09.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.749</Modified>
+      <Modified>2022-09-16T10:11:09.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.752</Modified>
+      <Modified>2022-09-16T10:11:09.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.755</Modified>
+      <Modified>2022-09-16T10:11:09.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.759</Modified>
+      <Modified>2022-09-16T10:11:09.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.800</Modified>
+      <Modified>2022-09-16T10:11:09.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.809</Modified>
+      <Modified>2022-09-16T10:11:09.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.814</Modified>
+      <Modified>2022-09-16T10:11:09.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.822</Modified>
+      <Modified>2022-09-16T10:11:09.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.840</Modified>
+      <Modified>2022-09-16T10:11:09.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.781</Modified>
+      <Modified>2022-09-16T10:11:09.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.783</Modified>
+      <Modified>2022-09-16T10:11:09.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.786</Modified>
+      <Modified>2022-09-16T10:11:09.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.790</Modified>
+      <Modified>2022-09-16T10:11:09.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.797</Modified>
+      <Modified>2022-09-16T10:11:09.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.761</Modified>
+      <Modified>2022-09-16T10:11:09.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.764</Modified>
+      <Modified>2022-09-16T10:11:09.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.770</Modified>
+      <Modified>2022-09-16T10:11:09.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.774</Modified>
+      <Modified>2022-09-16T10:11:09.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.778</Modified>
+      <Modified>2022-09-16T10:11:09.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.845</Modified>
+      <Modified>2022-09-16T10:11:09.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.851</Modified>
+      <Modified>2022-09-16T10:11:09.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.859</Modified>
+      <Modified>2022-09-16T10:11:09.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.870</Modified>
+      <Modified>2022-09-16T10:11:09.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.903</Modified>
+      <Modified>2022-09-16T10:11:09.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.782</Modified>
+      <Modified>2022-09-16T10:11:09.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.791</Modified>
+      <Modified>2022-09-16T10:11:09.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.803</Modified>
+      <Modified>2022-09-16T10:11:09.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.822</Modified>
+      <Modified>2022-09-16T10:11:09.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\Dotnet\MAUIDemo\ToDoMauiClient\ToDoMauiClient\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-09-10T10:57:39.866</Modified>
+      <Modified>2022-09-16T10:11:09.585</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
